@@ -4,7 +4,7 @@ Um simples formulário de registro desenvolvido em React utilizando TypeScript, 
 
 ## Funcionalidades
 
-- Captura de informações básicas do usuário: nome, sobrenome, e-mail, empresa e data de nascimento.
+- Captura de informações básicas do usuário: nome, sobrenome, e-mail e data de nascimento.
 - Validação de campos obrigatórios.
 - Feedback visual para campos inválidos.
 - Submissão do formulário com validação de dados.
